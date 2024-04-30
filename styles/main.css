@@ -1,0 +1,201 @@
+body {
+    font-family: 'Courier Prime', monospace;
+    background-color: rgb(24, 24, 24);
+}
+
+.header {
+    border-radius: 20px;
+    margin: 40px;
+    background-color: rgb(14, 14, 14);
+}
+
+.header-menu {
+    margin: 0px 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-text {
+    font-size: 20px;
+    background-color: rgb(255, 209, 58);
+    text-decoration: none;
+    margin-right: 10px;
+    text-align: center;
+    color: rgb(24, 24, 24);
+    border: 3px solid;
+    padding: 8px;
+    border-radius: 15px;
+    border-color: rgb(255, 209, 58);
+    transition: color 0.3s linear;
+    transition: background-color 0.3s linear;    
+}
+
+.nav-text:hover {
+    color: rgb(255, 209, 58);
+    background-color: rgb(24, 24, 24);
+}
+
+.text-logo {
+    font-size: 40px;
+    color: rgb(255, 209, 58);
+}
+
+.mainlogo {
+    text-decoration: none;
+    color: rgb(255, 209, 58);
+}
+
+.main {
+    color: rgb(255, 209, 58);
+    margin: 100px 290px;
+    display: flex;
+    align-items: center;
+}
+
+.textt {
+    max-width: 500px;
+    margin-right: 20px;
+}
+
+.image {
+    margin-left: auto;
+    margin-top: -150px;
+}
+
+.title {
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+
+.main-text {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.projects {
+    font-size: 25px;
+    color: rgb(255, 58, 87);
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    color: rgb(24, 24, 24);
+    background-color: rgb(255, 58, 87);
+    text-decoration: none;
+    border: 3px solid;
+    padding: 8px;
+    border-radius: 15px;
+    border-color: rgb(255, 58, 87);
+    transition: color 0.3s linear, background-color 0.3s linear;
+    margin-left: 10px;
+}
+
+.button:hover {
+    color: rgb(255, 58, 87);
+    background-color: rgb(24, 24, 24);
+}
+
+.footer {
+    text-align: left;
+    margin: 0px 290px;
+    margin-top: 280px;
+    font-size: 16px;
+    color: rgb(255, 209, 58);
+}   
+
+.footer1 {
+    text-align: left;
+    margin: 0px 290px;
+    margin-top: 400px;
+    font-size: 16px;
+    color: rgb(255, 209, 58);
+}
+
+.portfolio {
+    color: rgb(255, 209, 58);
+    margin: 100px 290px;
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.portfolio-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.project-description {
+    text-align: left;
+    max-width: 500px;
+}
+
+.portfolio-item img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.project-description h3 {
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+.project-description p {
+    font-size: 20px;
+}
+
+.project-image3 {
+    width: 200px;
+}
+
+.project-image4 {
+    width: 200px;
+}
+
+.project-image5 {
+    width: 200px;
+}
+
+.ripndip {
+    text-decoration: none;
+    color:rgb(255, 58, 87);
+}
+
+.ripndip:hover {
+    color:rgb(255, 150, 166);
+}
+
+.MoonBoot {
+    text-decoration: none;
+    color:rgb(255, 58, 87);
+}
+
+.MoonBoot:hover {
+    color:rgb(255, 150, 166);
+}
+
+.Sangvinik {
+    text-decoration: none;
+    color:rgb(255, 58, 87);
+}
+
+.Sangvinik:hover {
+    color:rgb(255, 150, 166);
+}
+
+.image6 {
+    margin-left: auto;
+}
+
+.image7 {
+    margin-left: auto;
+    margin-top: -950px;
+}
